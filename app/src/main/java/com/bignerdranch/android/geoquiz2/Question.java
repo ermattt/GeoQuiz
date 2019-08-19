@@ -1,5 +1,7 @@
 package com.bignerdranch.android.geoquiz2;
 
+// feedback, please!
+
 public class Question
 {
     private int mTextResId;
